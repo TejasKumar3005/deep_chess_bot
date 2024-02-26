@@ -1,0 +1,11 @@
+# ignore folder final/ , rollerball-v2/
+
+final/
+
+rollerball-v2/
+
+e
+ee
+.vscode/
+.__pycache__/
+.zip
